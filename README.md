@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 🔭 Actualmente no estoy trabajando, pero estoy entusiasmado por encontrar proyectos en los que pueda contribuir.<br><br>👯 Estoy buscando colaborar en un equipo donde pueda aplicar y expandir mis conocimientos en desarrollo de software.<br><br>🤝 Estoy buscando ayuda para mejorar mis habilidades y aprender de personas con más experiencia en el campo.<br><br>🌱 Actualmente estoy aprendiendo Django, una herramienta poderosa para el desarrollo web.<br><br>💬 Pregúntame sobre mis experiencias con el desarrollo de software o sobre cualquier cosa relacionada con la tecnología; siempre estoy dispuesto a compartir lo que sé.<br><br>⚡ Dato curioso: Soy un apasionado por el aprendizaje continuo, y siempre estoy explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
 
 ## 🌐 Socials:
