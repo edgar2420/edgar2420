@@ -50,5 +50,6 @@
 ## 🎴 Toque Personal
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media1.tenor.com/m/HlL3znD-34MAAAAd/bye.gif)" width="300" alt="Serpiente animada"/>
+  <img src="https://media1.tenor.com/m/HlL3znD-34MAAAAd/bye.gif" width="300" alt="Desapareciendo"/>
 </p>
+
