@@ -45,15 +45,10 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=edgar2420&icon=4&color=9)](https://visitcount.itsvg.in)
-
----
 
 ## 🎴 Toque Personal
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Serpiente animada"/>
+  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media1.tenor.com/m/HlL3znD-34MAAAAd/bye.gif)" width="300" alt="Serpiente animada"/>
 </p>
