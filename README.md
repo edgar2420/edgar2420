@@ -55,6 +55,6 @@
 ## 🎴 Toque Personal
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlmY2hhdjl1Znd2bTg1ajE2Nm5sdnpnZmVmdnhzdTZpYjR3ZnlvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L0HTZrzv7dO9a/giphy.gif" width="300"/>
+  <img src="https://media.tenor.com/GlU-5ep9coAAAAAi/inosuke-demon-slayer.gif" width="250" alt="Inosuke y Nezuko caminando"/>
 </p>
 
