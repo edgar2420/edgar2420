@@ -2,7 +2,9 @@
 🔭 Actualmente estoy trabajando en laboratorios ABD, aplicando mis conocimientos en desarrollo Web.<br><br>🤝🌱 Actualmente estoy aprendiendo Django, una herramienta poderosa para el desarrollo web.<br><br>💬 Pregúntame sobre mis experiencias con el desarrollo de software o sobre cualquier cosa relacionada con la tecnología; siempre estoy dispuesto a compartir lo que sé.<br><br>⚡ Dato curioso: Soy un apasionado por el aprendizaje continuo, y siempre estoy explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/edgar.rojasapaza) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/edgarrojasapaza_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edgar-rojas-029631265/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/edgar.rojasapaza) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/edgarrojasapaza_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edgar-rojas-029631265/) 
 
 ## 🛠️ Competencias:
 
@@ -12,7 +14,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -48,4 +49,12 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=edgar2420&icon=4&color=9)](https://visitcount.itsvg.in)
+
+---
+
+## 🎴 Toque Personal
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlmY2hhdjl1Znd2bTg1ajE2Nm5sdnpnZmVmdnhzdTZpYjR3ZnlvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L0HTZrzv7dO9a/giphy.gif" width="300"/>
+</p>
 
