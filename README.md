@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-🔭 Actualmente estoy trabajando en laboratorios ABD, aplicando mis conocimientos en desarrollo Web.<br><br>🤝🌱 Actualmente estoy aprendiendo Django, una herramienta poderosa para el desarrollo web.<br><br>💬 Pregúntame sobre mis experiencias con el desarrollo de software o sobre cualquier cosa relacionada con la tecnología; siempre estoy dispuesto a compartir lo que sé.<br><br>⚡ Dato curioso: Soy un apasionado por el aprendizaje continuo, y siempre estoy explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
+🔭 Actualmente estoy trabajando en laboratorios ABD, aplicando mis conocimientos en desarrollo Web.<br><br>🤝 Actualmente estoy aprendiendo Django, una herramienta poderosa para el desarrollo web.<br><br>💬 Pregúntame sobre mis experiencias con el desarrollo de software o sobre cualquier cosa relacionada con la tecnología; siempre estoy dispuesto a compartir lo que sé.<br><br>⚡ Dato curioso: Soy un apasionado por el aprendizaje continuo, y siempre estoy explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/edgar.rojasapaza) 
