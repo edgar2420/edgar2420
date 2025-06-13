@@ -1,7 +1,7 @@
 # Sobre Mi:
 Actualmente trabajo en Laboratorios ABD, donde aplico mis conocimientos en desarrollo web full stack. Me desenvuelvo tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de vida de una aplicación web.
 
-##Competencias:
+## Competencias:
 
 ### Backend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
