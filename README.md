@@ -22,6 +22,7 @@ Actualmente trabajo en Laboratorios ABD, donde aplico mis conocimientos en desar
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white)
 
 ### Desarrollo Movil
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
