@@ -1,7 +1,7 @@
-# 💫 Sobre Mi:
-🔭 Actualmente estoy trabajando en laboratorios ABD, aplicando mis conocimientos en desarrollo Web.<br><br>🤝 Actualmente estoy aprendiendo Django, una herramienta poderosa para el desarrollo web.<br><br>💬 Pregúntame sobre mis experiencias con el desarrollo de web o sobre cualquier cosa relacionada con la tecnología; siempre estoy dispuesto a compartir lo que sé.<br><br>⚡ Dato curioso: Soy un apasionado por el aprendizaje continuo, y siempre estoy explorando nuevas tecnologías y herramientas que me ayuden a crecer como desarrollador.
+# Sobre Mi:
+Actualmente trabajo en Laboratorios ABD, donde aplico mis conocimientos en desarrollo web full stack. Me desenvuelvo tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de vida de una aplicación web.
 
-## 🛠️ Competencias:
+##Competencias:
 
 ### Backend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
